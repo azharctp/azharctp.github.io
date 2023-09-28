@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Azhar Gafoor CTP"
   avatar           : "image.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Bangalore, India"
   employer         : "Indian Institute of Science"
   pubmed           : 
