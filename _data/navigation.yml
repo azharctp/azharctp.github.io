@@ -1,4 +1,4 @@
-s# main links links
+# main links links
 main:
   # - title: "Publications"
   #   url: /publications/
@@ -9,11 +9,11 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Projects"
-  #   url: /publications/
+  - title: "Projects"
+    url: /projects/
 
-  # - title: "Data"
-  #   url: /talks/
+  - title: "Data science visualization"
+    url: /visualization/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
