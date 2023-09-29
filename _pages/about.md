@@ -25,16 +25,16 @@ Coursework and Skills
   * Incompressible Fluid Flow
   * Inverse Methods in Heat Transfer
   * Foundation of CFD
-* **Tools and softwares** 
+* **Tools and software** 
   * TensorFlow, Keras, Numpy, MATLAB, ANSYS Fluent, OpenFOAM, ParaView 
 * **Languages**
   * Python, Fortran, C++
 
 Work experience
 ======
-* Assistant Manager Operations (June 2015 – March 2019): Bharat Petroleum Corporation Limited
+* **Assistant Manager Operations: Bharat Petroleum Corporation Limited** (June 2015 – March 2019)
   * Created internal control of day-to-day transactions and punctually opened and closed business activities.
-  * Taught employees how to collaborate on daily tasks and achievement of service targets. Effective time management reduced working hours by 20% and thereby eliminating overtime.
+  * Taught employees how to collaborate on daily tasks and achievement of service targets. Effective time management reduced working hours by 20%, thereby eliminating overtime.
   * Coordinated with the engineering and projects (E&P) team to revamp the six-bay tank lorry filling gantry (TLFG) to 8 bays without affecting retail operations and while upgrading tank farm and gantry automation by LnT.
   * Helped a team of 20 maintain business professionalism by coaching each on methods for delivering exceptional service to every customer.
   * Accomplished objectives by undertaking department activities during the absence of the line manager.
