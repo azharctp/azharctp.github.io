@@ -42,7 +42,8 @@ Work experience
 
 Projects
 ======
-M.Tech Project: Guide: Dr. Kameswararao Anupindi 
+M.Tech Project: Guide: Dr. Kameswararao Anupindi
+------
 * A Three-Dimensional Simulation of Non-Newtonian Blood Flow Through Irregular Arteries Using Off-Lattice Boltzmann Method
   *  Developed off-lattice Boltzmann solver in three-dimensional cylindrical coordinates to simulate non-Newtonian blood flows under pulsatile conditions.
   * Systematically investigated the effect of the degree of surface irregularity of the stenosis and the shear-thinning effect of blood on the flow dynamics.
