@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "PhD Scholar at IISc"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,48 +10,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computational and Data Science, Indian Institute of Science Bangalore, 2022-ongoing
+* M.Tech in Thermal Engineering, Indian Institute of Technology Madras, 2022
+* B.Tech in Mechanical Engineering, College of Engineering Trivandrum
+
+Coursework and Skills
+======
+* Courses
+  * Numerical Optimization
+  * Numerical Linear Algebra
+  * Environmental Data Analytics
+  * Non-Linear Model in Climate Sciences
+  * Environmental Fluid Dynamics
+  * Incompressible Fluid Flow
+  * Inverse Methods in Heat Transfer
+  * Foundation of CFD
+* Tools and software 
+  * TensorFlow, Keras, Numpy, MATLAB, ANSYS Fluent, OpenFOAM, ParaView 
+* Languages
+  * Python, Fortran, C++
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Manager Operations (June 2015 – March 2019): Bharat Petroleum Corporation Limited
+  * Created an internal control of day-to-day transactions, and punctually opened and closed business activities.
+  * Taught employees how to collaborate on daily tasks and achievement of service targets. Effective time management reduced working hours by 20% and thereby eliminating overtime.
+  * Coordinated with engineering and projects (E&P) team to revamp 6 bay tank lorry filling gantry (TLFG) to 8 bay without affecting retail operations, and while upgrading tank farm and gantry automation by LnT.
+  * Helped a team of 20 maintain business professionalism by coaching each on methods for delivering exceptional service to every customer.
+  * Accomplished objectives by undertaking department activities during the absence of the line manager.
+  * Handled different areas of work such as Maintenance, HSSE (Health, Safety, Security and Environment) and Planning & Supply. 
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
