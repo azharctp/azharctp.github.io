@@ -52,8 +52,3 @@ B. Tech Project: Guide: Dr. Unnikrishnan M
   * Determined the fundamental frequency of vibration of viscoelastic polyurethane pipe without mass, with added mass, and with flow.
   * Validated the analytical data and results obtained using ANSYS fluid-structure interaction simulation with that from the experimental data. 
 
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
