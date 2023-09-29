@@ -16,7 +16,7 @@ Education
 
 Coursework and Skills
 ======
-* Courses
+* **Courses**
   * Numerical Optimization
   * Numerical Linear Algebra
   * Environmental Data Analytics
@@ -25,9 +25,9 @@ Coursework and Skills
   * Incompressible Fluid Flow
   * Inverse Methods in Heat Transfer
   * Foundation of CFD
-* Tools and software 
+* **Tools and softwares** 
   * TensorFlow, Keras, Numpy, MATLAB, ANSYS Fluent, OpenFOAM, ParaView 
-* Languages
+* **Languages**
   * Python, Fortran, C++
 
 Work experience
