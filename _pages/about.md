@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Scholar at IISc"
+title: "PhD Scholar, Dept. of Computational and Data Sciences, IISc Bangalore"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
