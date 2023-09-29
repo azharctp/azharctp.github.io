@@ -10,10 +10,10 @@ main:
   #   url: /teaching/    
     
   - title: "Projects"
-    url: /projects/
+    url: /publications/
 
   - title: "Data science visualization"
-    url: /visualization/
+    url: /talks/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
