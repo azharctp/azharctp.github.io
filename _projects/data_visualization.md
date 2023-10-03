@@ -4,7 +4,7 @@ excerpt: "Analysis on datasets selected from https://data.gov.in/ using differen
 collection: projects
 ---
 
-The dataset used for the bar plot, line plot, and scatter plot is **'State/UT-wise Accidents Classified According to Type of Traffic Violations during 2018'**, and for the box plot is **'Sub Divisional Monthly Rainfall from 1901 to 2017'**
+The dataset used for the bar plot, line plot, and scatter plot is **['State/UT-wise Accidents Classified According to Type of Traffic Violations during 2018'](https://data.gov.in/resource/stateut-wise-accidents-classified-according-type-traffic-violations-during-2018)**, and for the box plot is **['Sub Divisional Monthly Rainfall from 1901 to 2017'](https://data.gov.in/resource/sub-divisional-monthly-rainfall-1901-2017)**
 
 ## Bar plot and line plot 
 <br/><img src='/images/data_vis/bar_line_plot.png'>
