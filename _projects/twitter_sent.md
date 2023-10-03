@@ -8,14 +8,12 @@ A Twitter sentiment analysis is used to determine the emotional tone behind the 
 
 **Training and test accuracies at the end of training.**
 
-Train accuracy at the end of training= 0.9932
-
+Train accuracy at the end of training= 0.9932 \
 Test accuracy = 0.9932
 
 **Training and test accuracies at the end of training after removing 5 emoticons**
 
-Training accuracy at the end after removing emoticons = 0.7284
-
+Training accuracy at the end after removing emoticons = 0.7284 \
 Test accuracy after removing emoticons = 0.6892
 
 Both test and training accuracies were reduced once the 5 emoticons were removed. This is due to the high weightage given to the emoticons while labeling the dataset. The emoticons are a kind of direct representation of the kind of tweet compared to individual word counts and removing them from the model training resulted in a defective model.
