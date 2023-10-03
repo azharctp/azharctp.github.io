@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization"
-excerpt: "Analysis on datasets selected from https://data.gov.in/ using different visualization tools <br/><img src='/images/data_vis.png'>"
+excerpt: "Analysis of datasets selected from <https://data.gov.in/> using different visualization tools <br/><img src='/images/data_vis.png'>"
 collection: projects
 ---
 
