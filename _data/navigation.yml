@@ -6,9 +6,6 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Projects"
     url: /projects/
 
@@ -17,6 +14,9 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+  
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "CV"
     url: /files/CV.pdf
