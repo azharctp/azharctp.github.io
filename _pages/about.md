@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+* Secured All India Rank **565 (99.59 percentile)** out of 137826 in GATE 2020 conducted by IIT Delhi.
+* Selected for the **Prime Minister’s Research Fellowship (PMRF)** which is awarded to **3.5%** of the existing PhD students.
+
 
 Education
 ======
