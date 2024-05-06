@@ -4,16 +4,19 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/IFF
 venue: "Institute of Smart Structures and Systems"
-date: 2014-01-01
+date: 2024-02-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course aims to deliver basic as well as some advanced concepts in fluid mechanics.
 
-Heading 1
-======
+Course content
+=============
+1. Fluid properties and continuum concept.
+2. Kinematics of fluid motion.
+3. Eulerian and Lagrangian formulations.
+4. Mass and momentum conservation.
+5. Navier-Stokes equation and applicability to simple cases (Couette Flow; Poiseuille flow).
+6. Stream function and velocity potential.
+7. Introduction to boundary layer theory and turbulent flows.
 
-Heading 2
-======
 
-Heading 3
-======
