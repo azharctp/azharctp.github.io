@@ -7,5 +7,6 @@ date: 29-06-2024
 venue: 'International Conference on Computational Science 2024'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-63759-9_39'
 citation: 'Rishi, J., Gafoor, A., Kumar, S., Subramani, D. (2024). On the Training Efficiency of Shallow Architectures for Physics Informed Neural Networks. In: Franco, L., de Mulatier, C., Paszynski, M., Krzhizhanovskaya, V.V., Dongarra, J.J., Sloot, P.M.A. (eds) Computational Science – ICCS 2024. ICCS 2024. Lecture Notes in Computer Science, vol 14834. Springer, Cham. https://doi.org/10.1007/978-3-031-63759-9_39'
+---
 
-[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-63759-9_39)
+[Paper link](https://link.springer.com/chapter/10.1007/978-3-031-63759-9_39)
