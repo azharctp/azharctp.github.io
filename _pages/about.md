@@ -16,6 +16,15 @@ Education
 * M.Tech in Thermal Engineering, Indian Institute of Technology Madras, 2022
 * B.Tech in Mechanical Engineering, College of Engineering Trivandrum, 2015
 
+Publications
+=====
+* **A physics-informed neural network for turbulent wake simulations behind wind turbines.**  
+  Azhar Gafoor CTP, Sumanth Kumar Boya, Rishi Jinka, Abhineet Gupta, Ankit Tyagi, Suranjan Sarkar, Deepak N Subramani  
+  Physics of Fluids 37 (1)
+* **On the training efficiency of shallow architectures for physics informed neural networks.**  
+  J Rishi, A Gafoor, S Kumar, D Subramani  
+  International Conference on Computational Science, 363-377
+
 Coursework and Skills
 ======
 * **Courses**
