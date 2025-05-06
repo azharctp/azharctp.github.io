@@ -86,7 +86,7 @@ author:
   location         : "Bangalore, India"
   employer         : "Indian Institute of Science"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=WKIhDxkAAAAJ&hl=en"
   email            : "azharctp@iisc.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "azharctp"
+  orcid            : "https://orcid.org/0009-0001-3001-1259"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
