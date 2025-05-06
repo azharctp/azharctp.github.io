@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "A physics-informed neural network for turbulent wake simulations behind wind turbines"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+
+excerpt: "This paper is about developing a Physics-Informed Neural Network (PINN) model to simulate wind turbine wakes efficiently, using less simulation data. The model, tested against traditional solvers and field data, shows similar accuracy to Reynolds-averaged Navier-Stokes (RANS) models. A transfer learning strategy accelerates training by 5×, demonstrating the PINN's potential to replace traditional solvers."
+date: 02-01-2025
+venue: 'Physics of Fluids'
+paperurl: "https://doi.org/10.1063/5.0245113"
+citation: "Azhar Gafoor CTP, Sumanth Kumar Boya, Rishi Jinka, Abhineet Gupta, Ankit Tyagi, Suranjan Sarkar, Deepak N. Subramani; A physics-informed neural network for turbulent wake simulations behind wind turbines. Physics of Fluids 1 January 2025; 37 (1): 015110."
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about developing a Physics-Informed Neural Network (PINN) model to simulate wind turbine wakes efficiently, using less simulation data. The model, tested against traditional solvers and field data, shows similar accuracy to Reynolds-averaged Navier-Stokes (RANS) models. A transfer learning strategy accelerates training by 5×, demonstrating the PINN's potential to replace traditional solvers.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Paper link](https://doi.org/10.1063/5.0245113)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Azhar Gafoor CTP, Sumanth Kumar Boya, Rishi Jinka, Abhineet Gupta, Ankit Tyagi, Suranjan Sarkar, Deepak N. Subramani; A physics-informed neural network for turbulent wake simulations behind wind turbines. Physics of Fluids 1 January 2025; 37 (1): 015110.
