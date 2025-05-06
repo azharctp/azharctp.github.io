@@ -9,11 +9,11 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Data science visualization"
-    url: /visualization/
+  # - title: "Data science visualization"
+  #   url: /visualization/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Publications"
+    url: /publications/
   
   - title: "Teaching"
     url: /teaching/    
