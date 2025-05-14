@@ -6,9 +6,6 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Projects"
-    url: /projects/
-
   # - title: "Data science visualization"
   #   url: /visualization/
         
@@ -20,6 +17,9 @@ main:
     
   - title: "CV"
     url: /files/CV.pdf
+    
+  - title: "Course Projects"
+    url: /projects/
     
   # - title: "Guide"
   #   url: /markdown/
